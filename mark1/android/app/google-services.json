@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120797924333",
+    "project_id": "pjone-38f31",
+    "storage_bucket": "pjone-38f31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120797924333:android:b50b1bed655fce32c235e4",
+        "android_client_info": {
+          "package_name": "com.mark1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120797924333-nlt473n7faogal9u6hlq9b273tubq1h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXRGd0bMn7kfgGw_HoDZjZQywCvtH9Pic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120797924333-nlt473n7faogal9u6hlq9b273tubq1h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
